@@ -14,7 +14,7 @@ ext {
   siteUrl = 'https://github.com/Arjun-sna/android-passcodeview/'
   gitUrl = 'https://github.com/Arjun-sna/android-passcodeview.git'
 
-  libraryVersion = '1.2.1'
+  libraryVersion = '1.2.2'
 
   developerId = 'Arjun-Sna'
   developerName = 'Arjun'
@@ -31,8 +31,8 @@ android {
     defaultConfig {
     minSdkVersion 21
     targetSdkVersion 28
-    versionCode 1
-    versionName "1.0"
+    versionCode 4
+    versionName "1.2.2"
   }
   buildTypes {
     release {
