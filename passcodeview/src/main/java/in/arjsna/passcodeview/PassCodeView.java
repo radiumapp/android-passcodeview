@@ -27,7 +27,7 @@ import java.util.Map;
 public class PassCodeView extends View {
   private boolean DEBUG = false;
   private final int KEYS_COUNT = 12;
-  private final String eraseChar = "\u232B";
+  private final String eraseChar = "\u2B05";
   private final int KEY_PAD_COLS = 3;
   private final int KEY_PAD_ROWS = 4;
   private int digits;
